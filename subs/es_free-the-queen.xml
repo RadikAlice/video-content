@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns="http://www.w3.org/ns/ttml" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" ttp:timeBase="media" xmlns:tts="http://www.w3.org/ns/ttml#styling" xml:lang="en" xmlns:ttm="http://www.w3.org/ns/ttml#metadata">
+  <head>
+    <metadata>
+      <ttm:title></ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s0" tts:backgroundColor="black" tts:fontStyle="normal" tts:fontSize="16px" tts:fontFamily="sansSerif" tts:color="white" />
+    </styling>
+    <layout>
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="start" xml:id="topLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="start" xml:id="centerLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="start" xml:id="bottomLeft" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="center" xml:id="topCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="center" xml:id="centerСenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="center" xml:id="bottomCenter" />
+      <region tts:extent="80% 40%" tts:origin="10% 10%" tts:displayAlign="before" tts:textAlign="end" xml:id="topRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 30%" tts:displayAlign="center" tts:textAlign="end" xml:id="centerRight" />
+      <region tts:extent="80% 40%" tts:origin="10% 50%" tts:displayAlign="after" tts:textAlign="end" xml:id="bottomRight" />
+    </layout>
+  </head>
+  <body style="s0">
+    <div>
+      <p begin="0.0s" xml:id="p0" end="7.22s" xmlns="http://www.w3.org/ns/ttml">[Intro y efectos de sonido]</p>
+      <p begin="7.26s" xml:id="p1" end="9.82s" xmlns="http://www.w3.org/ns/ttml">[Logo aparece y se abre para mostrar el nombre de usuario]</p>
+      <p begin="12.0s" xml:id="p2" end="13.52s" xmlns="http://www.w3.org/ns/ttml">DARKMAN: Hola híbridos e híbridas.</p>
+      <p begin="13.52s" xml:id="p3" end="15.92s" xmlns="http://www.w3.org/ns/ttml">Hoy vengo a avisarles de algo</p>
+      <p begin="15.72s" xml:id="p4" end="17.86s" xmlns="http://www.w3.org/ns/ttml">-que a muchos les interese.</p>
+      <p begin="17.86s" xml:id="p5" end="21.16s" xmlns="http://www.w3.org/ns/ttml">Pero como no soy malo,<br />no los dejaré con la duda de</p>
+      <p begin="21.16s" xml:id="p6" end="23.43s" xmlns="http://www.w3.org/ns/ttml">¿Porqué me mudé de mi mansión?</p>
+      <p begin="23.43s" xml:id="p7" end="24.84s" xmlns="http://www.w3.org/ns/ttml">La respuesta es simple.</p>
+      <p begin="24.84s" xml:id="p8" end="27.02s" xmlns="http://www.w3.org/ns/ttml">Ya no me agradaba esa mansión,</p>
+      <p begin="27.02s" xml:id="p9" end="28.16s" xmlns="http://www.w3.org/ns/ttml">y compré ésta casa con lo que</p>
+      <p begin="28.16s" xml:id="p10" end="30.46s" xmlns="http://www.w3.org/ns/ttml">-gané al vender la mansión.</p>
+      <p begin="30.46s" xml:id="p11" end="31.96s" xmlns="http://www.w3.org/ns/ttml">Y seguro se preguntarán</p>
+      <p begin="31.96s" xml:id="p12" end="35.16s" xmlns="http://www.w3.org/ns/ttml">¿porqué luce idéntica a otras casas?</p>
+      <p begin="35.16s" xml:id="p13" end="37.14s" xmlns="http://www.w3.org/ns/ttml">Eso lo responderé en otro vídeo.</p>
+      <p begin="37.24s" xml:id="p14" end="39.06s" xmlns="http://www.w3.org/ns/ttml">Rey, en la puerta: Darkman, ven acá.</p>
+      <p begin="39.06s" xml:id="p15" end="41.02s" xmlns="http://www.w3.org/ns/ttml">REY: Tengo algo que decirte</p>
+      <p begin="41.26s" xml:id="p16" end="44.4s" xmlns="http://www.w3.org/ns/ttml">DARKMAN: [Suspira] Ahí voy</p>
+      <p begin="45.36s" xml:id="p17" end="65.26s" xmlns="http://www.w3.org/ns/ttml">[Historia Capítulo 1 Acto 1: ¡Liberen a<br />la reina! Parte 1]</p>
+      <p begin="66.22s" xml:id="p18" end="67.06s" xmlns="http://www.w3.org/ns/ttml">[ReyBlaster, hermano mayor de Darkman]</p>
+      <p begin="67.18s" xml:id="p19" end="68.42s" xmlns="http://www.w3.org/ns/ttml">DARKMAN: Sea lo que sea por lo que</p>
+      <p begin="68.42s" xml:id="p20" end="70.96s" xmlns="http://www.w3.org/ns/ttml">-me interrumpiste, espero que sea importante.</p>
+      <p begin="70.96s" xml:id="p21" end="73.759s" xmlns="http://www.w3.org/ns/ttml">REY: Sí, es importante, escucha.</p>
+      <p begin="73.76s" xml:id="p22" end="75.12s" xmlns="http://www.w3.org/ns/ttml">REY: Al fin he logrado localizar</p>
+      <p begin="75.12s" xml:id="p23" end="77.06s" xmlns="http://www.w3.org/ns/ttml">-dónde han encerrado a nuestra madre</p>
+      <p begin="77.08s" xml:id="p24" end="79.0s" xmlns="http://www.w3.org/ns/ttml">DARKMAN: ¿Que estás esperando?</p>
+      <p begin="79.0s" xml:id="p25" end="80.76s" xmlns="http://www.w3.org/ns/ttml">DARKMAN: Vamos allá de una vez.</p>
+      <p begin="81.32s" xml:id="p26" end="83.82s" xmlns="http://www.w3.org/ns/ttml">[Unos minutos después]</p>
+      <p begin="83.82s" xml:id="p27" end="85.32s" xmlns="http://www.w3.org/ns/ttml">[Pisadas]</p>
+      <p begin="85.32s" xml:id="p28" end="87.76s" xmlns="http://www.w3.org/ns/ttml">[Entrando a un portal]</p>
+      <p begin="88.96s" xml:id="p29" end="89.8s" xmlns="http://www.w3.org/ns/ttml">[Pisadas]</p>
+      <p begin="89.88s" xml:id="p30" end="91.64s" xmlns="http://www.w3.org/ns/ttml">Darkman y REY: ¿Quién eres tú?</p>
+      <p begin="91.64s" xml:id="p31" end="93.04s" xmlns="http://www.w3.org/ns/ttml">Kanna: Soy Kanna,</p>
+      <p begin="93.04s" xml:id="p32" end="94.76s" xmlns="http://www.w3.org/ns/ttml">mi jefe me encargó matarlos.</p>
+      <p begin="94.76s" xml:id="p33" end="97.5s" xmlns="http://www.w3.org/ns/ttml">Kanna: Y eso haré, débiles y torpes humanos</p>
+      <p begin="97.9s" xml:id="p34" end="102.48s" xmlns="http://www.w3.org/ns/ttml">[Icono de guardado y texto: "Guardando"]</p>
+      <p begin="103.74s" xml:id="p35" end="105.42s" xmlns="http://www.w3.org/ns/ttml">[Continuará]</p>
+      <p begin="105.42s" xml:id="p36" end="108.16s" xmlns="http://www.w3.org/ns/ttml">["Game Over" empieza a aparecer y desaparecer]</p>
+    </div>
+  </body>
+</tt>
